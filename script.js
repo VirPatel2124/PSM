@@ -15,7 +15,7 @@ const durTime = document.querySelector('#durTime');
 const songs = ['Family Unity', 'God is the All-Doer', 'Guiding Parents', 'PurposeOfLife', 'Serving Parents', 'Spirituality of the Soul', 'The Key to a Happy Marital Life'];
 
 // Keep track of song
-let songIndex = 2;
+let songIndex = 7;
 
 // Initially load song details into DOM
 loadSong(songs[songIndex]);
